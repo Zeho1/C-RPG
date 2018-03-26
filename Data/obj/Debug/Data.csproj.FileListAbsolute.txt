@@ -1,0 +1,20 @@
+E:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\bin\Debug\Data.dll
+E:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\bin\Debug\Data.pdb
+E:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\obj\Debug\Data.dll
+E:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\obj\Debug\Data.pdb
+C:\Users\forma1108\Documents\Visual Studio 2015\Projet C#\Projet C#\StormWall\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\forma1108\Documents\Visual Studio 2015\Projet C#\Projet C#\StormWall\Data\obj\Debug\Data.dll
+C:\Users\forma1108\Documents\Visual Studio 2015\Projet C#\Projet C#\StormWall\Data\obj\Debug\Data.pdb
+C:\Users\forma1108\Documents\Visual Studio 2015\Projet C#\Projet C#\StormWall\Data\bin\Debug\Data.dll
+C:\Users\forma1108\Documents\Visual Studio 2015\Projet C#\Projet C#\StormWall\Data\bin\Debug\Data.pdb
+H:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\bin\Debug\Data.dll
+H:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\bin\Debug\Data.pdb
+H:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+H:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\obj\Debug\Data.dll
+H:\Formation IT\Labo C# .NET\Projet C#\StormWall\Data\obj\Debug\Data.pdb
+E:\Projet C#\StormWall\Data\bin\Debug\Data.dll
+E:\Projet C#\StormWall\Data\bin\Debug\Data.pdb
+E:\Projet C#\StormWall\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\Projet C#\StormWall\Data\obj\Debug\Data.dll
+E:\Projet C#\StormWall\Data\obj\Debug\Data.pdb
